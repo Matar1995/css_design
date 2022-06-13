@@ -1,2 +1,2 @@
 # css_design
-### css card using tailwindcss 
+### design card using tailwindcss
